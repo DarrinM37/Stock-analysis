@@ -1,6 +1,6 @@
 # Stock-analysis
 
-In my opinion the purpose of this analysis is to help give a clearer comparison of stocks by creating a spreadsheet of the twelve stocks chosen for two years for daily volime and return. To help investors at the tine frame os 2019 make better educsated decisions of investments.
+The purpose of this analysis is to help give a clearer comparison of stocks by creating a spreadsheet of the twelve stocks chosen for two years for daily volime and return. To help investors at the tine frame os 2019 make better educsated decisions of investments.
 
 The comparison between the two years is the majority saw a decrese in daily volume and return. With the exception being ENPH and RUN they both had an increase return of above 80% between the two years.
 
@@ -19,4 +19,4 @@ The comparison between the two years is the majority saw a decrese in daily volu
 
 <img width="262" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/105955544/176350620-96e89278-17db-45ac-8332-7284751a5571.png">
 
-In conclusion in my opinion the advantage of refactoring the code created a faster macro run time. It helped to clean up the code and helped to produce cleaner data that can be easily read and understood by others who may be looking at the code when you are not available. The con to refractoring is time, one may not have the time or there is to much data involved for refactoring to be do-able. 
+In conclusion, the advantage of refactoring the code created a faster macro run time. It helped to clean up the code and helped to produce cleaner data that can be easily read and understood by others who may be looking at the code when you are not available. The con to refractoring is time, one may not have the time or there is to much data involved for refactoring to be do-able. 
