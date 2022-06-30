@@ -1,9 +1,6 @@
 # Stock-analysis
-Explain the purpose of this analysis.
 
 In my opinion the purpose of this analysis is to help give a clearer comparison of stocks by creating a spreadsheet of the twelve stocks chosen for two years for daily volime and return. To help investors at the tine frame os 2019 make better educsated decisions of investments.
-
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 The comparison between the two years is the majority saw a decrese in daily volume and return. With the exception being ENPH and RUN they both had an increase return of above 80% between the two years.
 
